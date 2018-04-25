@@ -1,4 +1,4 @@
-libdigibooster3
+libDigiBooster4
 ===============
 
-Portable replayer for DigiBooster 3 music modules.
+Proposed portable replayer for DigiBooster 4 music modules.
