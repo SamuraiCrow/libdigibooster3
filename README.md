@@ -1,4 +1,4 @@
-libDigiBooster4
-===============
+libHollyMusic
+=============
 
-Proposed portable replayer for DigiBooster 4 music modules.  See the Wiki tab for proposed changes.
+Proposed portable replayer for HollyMusic music modules.  See the Wiki tab for proposed changes.
